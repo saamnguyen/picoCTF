@@ -1,0 +1,11 @@
+# Cass
+---
+
+## Mô tả:
+Now presenting **(cowsay as a service)[https://caas.mars.picoctf.net/]**
+---
+
+## Cách làm:
+Theo đường dẫn thì https://caas.mars.picoctf.net/cowsay/{message} mình sẽ thử thêm chữ gì đó vào message.
+Thì nó ra: 
+![](CTF\picoCTF\web\page-2\caas\img\1.png) (&lt;img /&gt;)
